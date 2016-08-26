@@ -147,3 +147,5 @@ puts "Before trim size:"
 puts before_size
 puts "After trim size:"
 puts get_image_size
+
+ensure_docker_is_running
